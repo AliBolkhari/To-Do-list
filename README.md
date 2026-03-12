@@ -9,6 +9,8 @@ Delete tasks
 Clean and simple user interface
 Responsive design
 
+# Live Demo
+https://alibolkhari.github.io/To-Do-list/
 
 # Author
 Ali Bokhari
